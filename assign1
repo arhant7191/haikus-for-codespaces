@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>S7</title>
+</head>
+<body>
+   
+    <table bordercolor=black border="1" height="200" width="750">
+       <h4></h4> <th  bgcolor="yellow"><b>Country</b></th></h4>
+       <h4><th bgcolor="yellow"><b>Captil</b></th></h4>
+        <h4><th bgcolor="yellow"><b>Currency</b></th></h4>
+        <tr>
+            <td align="center">india</td>
+            <td align="center">New Delhi</td>
+            <td align="center">Rupee</td>
+        </tr>
+        <tr>
+            <td align="center">japan</td>
+            <td align="center">Tokyo</td>
+            <td align="center">Yen</td>
+        </tr>
+        <tr>
+            <td align="center">USA</td>
+            <td align="center">Washington DC</td>
+            <td align="center">Dollar</td>
+        </tr>
+        <tr>
+            <td align="center">France</td>
+            <td align="center">Paris</td>
+            <td align="center">Mark</td>
+        </tr>
+        
+    </table>
+    
+</body>
+</html>
+<br>
+<br>
+<html>
+    <head>...</head>
+    <body><br>
+        </h5><u>ASSIGMENT ON TABLES:</u></h5><br>
+        1.
+        <table   bgcolor="lightgreen" align=center Width="400" border="3">
+            <tr>
+                <td cellspacing="8">Acad no</td>
+                <td>Name</td>
+            </tr>
+            <tr>
+                <td>26466</td>
+                <td>Kabir</td>
+            </tr>
+            <tr>
+                <td>25t225</td>
+                <td>Vishal</td>
+            </tr>
+            <tr>
+                <td>28464</td>
+                <td>Ghosh</td>
+            </tr>
+        </table>
+    </body>
+</html>
+<br>
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>,.</title>
+</head>
+<body>
+    <table bgcolor=pink border="1" width="250">
+        <tr>
+            <td width="100">BCA</td>
+            <td width=200 rowspan="3" align="center">TMU</td>
+        </tr>
+        <tr>
+            <td width="100">MBA</td>
+        </tr>
+        <tr>
+            <td width="100">MCA</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
+
+<br>
+<br>
+<br>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>...</title>
+</head>
+<body>
+    <table border="2">
+        <td bgcolor=yellow align="center" colspan="3"><a href="https://S71buddy.html">Health is Wealth</a></td>
+        <tr>
+            <td><b>Fruits</b></td>
+            <td><b>Vegetables</b></td>
+            <td width="175" align="center"><b>Image</b></td>
+        </tr>
+        <tr>
+            
+            <td>Apples</td>
+            <td>potato</td>
+        </tr>
+        <tr>
+            <td>Mangoes</td>
+            <td>Tomato</td>
+        </tr>
+        <tr>
+            <td>Banana</td>
+            <td>Onion</td>
+        </tr>
+        <tr>
+            <td colspan="2" bgcolor="black"><font color="yellow">An apple a day keeps the doctor away</font></td>
+        </tr>
+    </table>
+    
+</body>
+</html>
